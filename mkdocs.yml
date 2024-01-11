@@ -5,8 +5,8 @@ theme:
 plugins:
   - search
   - mermaid2
-  - awesome-pages:
-          collapse_single_pages: true
+  # - awesome-pages:
+  #         collapse_single_pages: true
   - mkdocstrings:
       handlers:
         # See: https://mkdocstrings.gipip3 thub.io/python/usage/
