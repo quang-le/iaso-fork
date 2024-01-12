@@ -57,8 +57,7 @@ style="width:2.34896in;height:2.59779in" />
 Once in the interface, you will see the Menu button in the top left of
 the screen:
 
-<img src="./attachments/user_guide/image49.png"
-style="width:0.61979in;height:0.57284in" />
+![image49.png](./attachments/user_guide/image49.png)
 
 The menu allows you to navigate to the different windows for managing:
 
