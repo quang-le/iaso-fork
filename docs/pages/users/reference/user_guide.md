@@ -78,7 +78,7 @@ menu.
 
 |Button                                                                       | Description
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| <img src="./attachments/user_guide/image39.png" style="width:0.5625in;height:0.41667in" />   | Allows to show the main menu for the app                                          |
+| <img src="/pages/users/reference/attachments/user_guide/image39.png" style="width:0.5625in;height:0.41667in" />   | Allows to show the main menu for the app                                          |
 | <img src="./attachments/user_guide/image67.png" style="width:0.46875in;height:0.32292in" />  | This is the view icon to show more details about the selected element             |
 | <img src="./attachments/user_guide/image26.png" style="width:0.5in;height:0.41667in" />      | The pencil icon allows to edit or modify an element                               |
 | <img src="./attachments/user_guide/image53.png" style="width:0.46875in;height:0.34375in" />  | DHIS mapping allows to map questions with DHIS2 dataElements                      |
